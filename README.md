@@ -21,16 +21,18 @@ The toll station needs to calculate the toll fee for each vehicle that arrives a
 - For running tests: JUnit 5 (already included in the project dependencies)
 
 
-### Installation
+### Installation steps
+1. **Clone the repository**
+    ```bash
+    git clone https://github.com/Snysic/Peaje_and_Vehiculos.git
+    cd Proyecto---Peaje_and_Vehiculos
+    ```
 
-**Clone the repository**
+2. **Set up the project in the IDE**
+    - Open the project in your preferred IDE.
+    - Ensure the JDK is configured correctly.
+    - Verify the `pom.xml` file is present, as well as the dependencies.
 
-```bash
-git clone https://github.com/Snysic/Peaje_and_Vehiculos.git
-```
-
-**Run the application**
-
-```bash
-mvn spring-boot:run
-```
+3. **Run the application**
+    - Navigate to the `Main` class in your IDE.
+    - Run the `Main` class from the IDE, or from the terminal.
