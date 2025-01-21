@@ -1,4 +1,4 @@
-# Toll and Vehicles
+# Peaje_and_Vehiculos
 
 This repository is part of coursework for the Full Stack Web Development course from [Factoria F5](https://factoriaf5.org).
 
